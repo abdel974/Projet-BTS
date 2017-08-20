@@ -1,6 +1,6 @@
 # Projet Bts
 
-## Présentationdu projet
+## Présentation du projet
 Voici Mon projet Bts "Réservation parking" que j'ai réalisé avec deux élèves de ma classe.
 
 "Le système détecte les emplacements vides dans les deux étages du parking.
